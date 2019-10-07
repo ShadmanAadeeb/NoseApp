@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "406227724736",
+    "firebase_url": "https://noseapp-ae469.firebaseio.com",
+    "project_id": "noseapp-ae469",
+    "storage_bucket": "noseapp-ae469.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406227724736:android:bb119a9dcc07f45d790025",
+        "android_client_info": {
+          "package_name": "project.firstattempt.noseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406227724736-0bdvvjvs7rmj4nqmk48v1skd9lmkquti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "project.firstattempt.noseapp",
+            "certificate_hash": "1d41367970e2176f7a1f508dceca6c853e6423c2"
+          }
+        },
+        {
+          "client_id": "406227724736-du6v0gl88u05dtueadbuufmmnr83eibn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfLjP6BACIFDppwqmZxe7xmyBGwsixwjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406227724736-du6v0gl88u05dtueadbuufmmnr83eibn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
